@@ -1,15 +1,8 @@
-*********************************************
-*                                           *
-*              Welcome to                   *
-*            [N166@-SORSU.PH]              *
-*                                           *
-*********************************************
+TEAM ALIBAY
 
-###### Welcome to [N166@-SORSU.PH]!
-[N166@-SORSU.PH] is a group of classments that has been task to complete an Activity.
-The Group Members are:
-Alephzain A. Carpio
-Jimmy Tejano
-Carlos Miguel Alvarez
-John Mark Polo
-Joana Bea Liz Hate
+MEMBERS:
+JAVINJOY H. GARCIA
+CHRYZ G. GUERRERO
+SHEKCLEAR B. FULLER
+MARY ANGELINE GERUELA
+ANDREA DAINE DACILLO
